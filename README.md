@@ -41,9 +41,3 @@ It is not arranged in order. Please open the HTML files to start the system.
 
 - **It can also print out the logs by word or excel**
 ![image](https://github.com/user-attachments/assets/98197e32-78d1-4cfc-8fd7-fcf38bdafdda)
-
-# Software Used
-- Backend: PHP
-- Frontend: HTML, CSS
-- Database: MySQL
-- Server: Apache (via XAMPP)
