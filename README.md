@@ -12,20 +12,26 @@ This system was designed to manage and monitor PC usage in a library. It tracks 
 - **Student Request PC Form**
 ![image](https://github.com/user-attachments/assets/0cbfd502-6297-441e-a283-216d229b2025)
 
-- PC Slot Form
+- **PC Slot Form**
 ![image](https://github.com/user-attachments/assets/04e1a8fa-d76f-4820-a341-a3baa2bb8d5a)
 
-- PC Logs Form
+- **PC Logs Form**
 ![image](https://github.com/user-attachments/assets/45067be8-6496-44f3-928c-14dd43b25eaa)
 
-- Banned Students Form
+- **Banned Students Form**
 ![image](https://github.com/user-attachments/assets/755a66d5-c885-485f-bfe9-386903d752bc)
 
-- Ban/Unban Logs Form
+- **Ban/Unban Logs Form**
 ![image](https://github.com/user-attachments/assets/6a6a9e2e-d571-46d1-b7d9-929af16c3497)
 
-- Employee Logs Form (When logged in as Admin)
+- **Employee Logs Form (When logged in as Admin)**
 ![image](https://github.com/user-attachments/assets/9d7d2406-7820-40c9-bdf9-72a477f5ea77)
 
-- It can also print out the logs by word or excel
+- **It can also print out the logs by word or excel**
 ![image](https://github.com/user-attachments/assets/98197e32-78d1-4cfc-8fd7-fcf38bdafdda)
+
+# Software Used
+- Backend: PHP
+- Frontend: HTML and CSS
+- Database: MySQL
+- Server: Apache (XAMPP)
