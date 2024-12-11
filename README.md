@@ -16,33 +16,33 @@ It is not arranged in order. Please open the HTML files to start the system.
 
 # Features
 
-1. Student's Interface
+1. **Student's Interface**
 
-- **Student Request PC Form**
+- **_Student Request PC Form_**
 ![image](https://github.com/user-attachments/assets/0cbfd502-6297-441e-a283-216d229b2025)
 
-2. Librarian/Admin Interfaces
+2. **Librarian/Admin Interfaces**
 
-- **Accessed Personnel Login Form**
+- **_Accessed Personnel Login Form_**
 ![image](https://github.com/user-attachments/assets/be03c362-dc0e-4c5c-b414-2eb3e80acf0e)
 
-- **Request Tab Form**
+- **_Request Tab Form_**
 ![image](https://github.com/user-attachments/assets/c4541e38-8f2a-4dcf-a621-f9ab36173838)
 
-- **PC Slot Form**
+- _**PC Slot Form**_
 ![image](https://github.com/user-attachments/assets/04e1a8fa-d76f-4820-a341-a3baa2bb8d5a)
 
-- **PC Logs Form**
+- _**PC Logs Form**_
 ![image](https://github.com/user-attachments/assets/45067be8-6496-44f3-928c-14dd43b25eaa)
 
-- **Banned Students Form**
+- _**Banned Students Form**_
 ![image](https://github.com/user-attachments/assets/755a66d5-c885-485f-bfe9-386903d752bc)
 
-- **Ban/Unban Logs Form**
+- _**Ban/Unban Logs Form**_
 ![image](https://github.com/user-attachments/assets/6a6a9e2e-d571-46d1-b7d9-929af16c3497)
 
-- **Librarian Logs Form (When logged in as Admin)**
+- _**Librarian Logs Form (Only for Admin)**_
 ![image](https://github.com/user-attachments/assets/9d7d2406-7820-40c9-bdf9-72a477f5ea77)
 
-- **It can also print out the logs by word or excel**
+- _**It can also print out the logs by word or excel**_
 ![image](https://github.com/user-attachments/assets/98197e32-78d1-4cfc-8fd7-fcf38bdafdda)
