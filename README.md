@@ -1,6 +1,17 @@
 # Library PC Management
 
-This system was designed to manage and monitor PC usage in a library. It tracks the check-in and check-out times of students using the PCs, displays real-time PC availability, and maintains a list of banned students who are restricted from requesting PC access. Banned students can only be unbanned with administrator approval.
+This system is designed to manage and monitor PC usage in a library. It tracks the check-in and check-out times of students using the PCs, displays real-time PC availability, and maintains a list of banned students who are restricted from requesting PC access. Banned students can only be unbanned with approval from the librarian or administrator. The system features separate interfaces for students and librarians/administrators.
+
+# Software Used
+- Backend: PHP
+- Frontend: HTML and CSS
+- Database: MySQL
+- Server: Apache (XAMPP)
+
+# PHP File to start
+- Student Interface: studentTimeInForm.html
+- Admin/Librarian Interface: login.html
+It is not arranged in order. Please open the HTML files to start the system.
 
 # Features
 - **Accessed Personnel Login Form**
@@ -24,7 +35,7 @@ This system was designed to manage and monitor PC usage in a library. It tracks 
 - **Ban/Unban Logs Form**
 ![image](https://github.com/user-attachments/assets/6a6a9e2e-d571-46d1-b7d9-929af16c3497)
 
-- **Employee Logs Form (When logged in as Admin)**
+- **Librarian Logs Form (When logged in as Admin)**
 ![image](https://github.com/user-attachments/assets/9d7d2406-7820-40c9-bdf9-72a477f5ea77)
 
 - **It can also print out the logs by word or excel**
@@ -32,6 +43,6 @@ This system was designed to manage and monitor PC usage in a library. It tracks 
 
 # Software Used
 - Backend: PHP
-- Frontend: HTML and CSS
+- Frontend: HTML, CSS
 - Database: MySQL
-- Server: Apache (XAMPP)
+- Server: Apache (via XAMPP)
