@@ -15,14 +15,19 @@ This system is designed to manage and monitor PC usage in a library. It tracks t
 It is not arranged in order. Please open the HTML files to start the system.
 
 # Features
+
+1. Student's Interface
+
+- **Student Request PC Form**
+![image](https://github.com/user-attachments/assets/0cbfd502-6297-441e-a283-216d229b2025)
+
+2. Librarian/Admin Interfaces
+
 - **Accessed Personnel Login Form**
 ![image](https://github.com/user-attachments/assets/be03c362-dc0e-4c5c-b414-2eb3e80acf0e)
 
 - **Request Tab Form**
 ![image](https://github.com/user-attachments/assets/c4541e38-8f2a-4dcf-a621-f9ab36173838)
-
-- **Student Request PC Form**
-![image](https://github.com/user-attachments/assets/0cbfd502-6297-441e-a283-216d229b2025)
 
 - **PC Slot Form**
 ![image](https://github.com/user-attachments/assets/04e1a8fa-d76f-4820-a341-a3baa2bb8d5a)
